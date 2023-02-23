@@ -20,3 +20,6 @@ li {
 img {
     border: solid black;
 }
+ul {
+    list-style-type: square;
+}
