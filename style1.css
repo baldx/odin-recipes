@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(250, 218, 176);
+}
+ul>li {
+    line-height: 2;
+}
+
+ol>li {
+    line-height: 3;
+}
+hr {
+    border-top: 1px solid black;
+    border-top: dashed;
+    border-bottom: 1px solid black;
+    border-bottom: dashed;
+}
+li {
+    font-size: large;
+}
