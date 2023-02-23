@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(250, 218, 176);
+}
+header {
+    border: dotted black;
+}
+nav {
+    border: dotted black;
+    width: 10%;
+    height: 800px;
+}
+li {
+    padding: 1px;
+}
