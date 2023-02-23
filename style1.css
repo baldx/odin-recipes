@@ -17,3 +17,6 @@ hr {
 li {
     font-size: large;
 }
+img {
+    border: solid black;
+}
