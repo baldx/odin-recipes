@@ -11,8 +11,6 @@ ol>li {
 hr {
     border-top: 1px solid black;
     border-top: dashed;
-    border-bottom: 1px solid black;
-    border-bottom: dashed;
 }
 li {
     font-size: large;
