@@ -23,3 +23,15 @@ img {
 ul {
     list-style-type: square;
 }
+nav {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+a:link, a:visited {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
